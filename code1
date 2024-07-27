@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Hi Alok Singh</h2>
+    <h1><b>
+        My Favorite Movie: Super 30
+    </b></h1>
+    <p>
+        Lallan takes Anand as a teacher in his coaching center, Excellence Coaching Centre. The coaching center is also funded by Devraj, who gets Lallan land at cheap rates and also funds his other businesses like bars and banquet halls. There, Anand sees the plight of a boy who had to leave due to poverty.
+    </p>
+    <img height="250px" src="1.jpg" alt="">
+    <video controls width="320" height="240">
+        <source src=""
+    </video>
+
+
+</body> <p>
+            Lallan takes Anand as a teacher in his coaching center, Excellence Coaching Centre. The coaching center is also funded by Devraj, who gets Lallan land at cheap rates and also funds his other businesses like bars and banquet halls. There, Anand sees the plight of a boy who had to leave due to poverty.
+        </p>
+</html>
